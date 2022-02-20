@@ -5,27 +5,27 @@
 
 
 ### Featurs:
-    👉 This is React js project which is fully Responsive with firebase authentication.
-    👉 User Can Login , Register, Reset Password and verify email.
-    👉 You Have no account && not Login then You are not eligible access to the private route.
-    👉 Redirect url after successfully login 
-    👉 You Can find best gym club when you are visite our website
-    👉 Add Mapbox gl into the Contact Page, find your direction route in our map
+    ✔ This is React js project which is fully Responsive with firebase authentication.
+    ✔ User Can Login , Register, Reset Password and verify email.
+    ✔ You Have no account && not Login then You are not eligible access to the private route.
+    ✔ Redirect url after successfully login 
+    ✔ You Can find best gym club when you are visite our website
+    ✔ Add Mapbox gl into the Contact Page, find your direction route in our map
 
 
 
 
 
 ### Technology:
-    👉 React js
-    👉 React Router Dom
-    👉 React Bootstrap
-    👉 FontAwesome
-    👉 Context Api
-    👉 FireBase Authentication
-    👉 Private Routing
-    👉 React Rating
-    👉 React-reveal
+    ➢ React js
+    ➢ React Router Dom
+    ➢ React Bootstrap
+    ➢ FontAwesome
+    ➢ Context Api
+    ➢ FireBase Authentication
+    ➢ Private Routing
+    ➢ React Rating
+    ➢ React-reveal
    
 
 
