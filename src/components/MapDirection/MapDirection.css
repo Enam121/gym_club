@@ -1,0 +1,6 @@
+
+.map{
+  position: relative;
+  height: 500px;
+  }
+  #map { position: absolute; top: 0; bottom: 0; width: 100%; }

@@ -1,0 +1,10 @@
+.SectionTitle{
+    font-family: 'Kanit', sans-serif;
+    font-weight: 600;
+    text-align: center;
+}
+.underline{
+    width: 100px;
+    padding: 2px;
+    background-color: black;  
+  }
