@@ -21,7 +21,7 @@ const Shopping = () => {
                     {product?.map((p, idx) => (
                         <Col as={Link} to={`/shopping/${p.id}`} key={idx} className="text-decoration-none text-dark">
                             <Fade bottom>
-                                <Card className="border-0 shadow-sm productHover rounded-3 height">
+                                <Card className="border-0 shadow-sm productHover rounded-3 " style={{ minHeight: "720px" }}>
                                     <div className="overflow-hidden">
                                         <Card.Img variant="top" className="cardimg" src={p.img} />
                                     </div>

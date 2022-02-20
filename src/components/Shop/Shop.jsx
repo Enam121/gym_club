@@ -20,7 +20,7 @@ const Shop = () => {
                                 <Col as={Link} to={`/shopping/${p.id}`} key={idx} className="text-decoration-none text-dark">
 
                                     <Fade left>
-                                        <Card className="border-0 shadow-sm productHover rounded-3">
+                                        <Card className="border-0 shadow-sm productHover rounded-3 height">
                                             <div className="overflow-hidden">
                                                 <Card.Img variant="top" className="card-img" src={p.img} />
                                             </div>
@@ -52,7 +52,7 @@ const Shop = () => {
                                 <Col as={Link} to={`/shopping/${p.id}`} key={idx} className="text-decoration-none text-dark">
 
                                     <Fade right>
-                                        <Card className="border-0 overflow-hidden shadow-sm productHover rounded-3">
+                                        <Card className="border-0 overflow-hidden shadow-sm productHover rounded-3 height">
                                             <div className="overflow-hidden">
                                                 <Card.Img variant="top" className="card-img" src={p.img} />
                                             </div>

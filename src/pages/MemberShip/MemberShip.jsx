@@ -32,12 +32,12 @@ const MemberShip = () => {
                         {membership?.map((member) => (
                             <Col>
                                 <Fade bottom>
-                                    <Card className="border-0 shadow-sm text-center bg-dark bg-gradient text-uppercase text-light rounded-3">
+                                    <Card className="border-0 shadow-sm text-center bg-dark bg-gradient text-uppercase text-light rounded-3" style={{ minHeight: "540px" }}>
                                         <Card.Body>
 
                                             <Card.Title className="fw-bold fs-3 ff-kanit my-5">{member.title}</Card.Title>
                                             <hr />
-                                            <Card.Text className="fw-500 my-5">
+                                            <Card.Text className="fw-500 my-5 line-height">
                                                 {member.desc}
                                             </Card.Text>
                                             <hr />
